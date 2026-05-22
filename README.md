@@ -1,45 +1,64 @@
-# decodelabs
-# Python To-Do List
+Python To-Do List Application
 
-A simple command-line To-Do List application built with Python. This project allows users to manage tasks efficiently using basic CRUD operations.
+A simple command-line based To-Do List application built using Python. This project allows users to manage daily tasks easily through basic operations like adding, viewing, and deleting tasks.
 
-## Features
+Features
+Add new tasks
+View all tasks
+Delete completed or unwanted tasks
+Exit the application safely
+Technologies Used
+Python 3
+How It Works
 
-- Add new tasks
-- View all tasks
-- Delete tasks
-- Exit the application
+The program displays a menu with different options:
 
-## Technologies Used
+Add Task
+View Tasks
+Delete Task
+Exit
 
-- Python 3
+Users can choose an option by entering the corresponding number.
 
-## How to Run
-
-1. Clone the repository
-
-```bash
+Project Structure
+todo-list/
+│
+├── todo.py
+└── README.md
+Installation & Usage
+Clone the Repository
 git clone https://github.com/your-username/todo-list.git
-2. Navigate to the project folder
+Navigate to the Project Folder
 cd todo-list
-3. Run the Python file
+Run the Program
 python todo.py
---- Example Menu
+Example Output
+==== TO-DO LIST ====
+
 1. Add Task
 2. View Tasks
 3. Delete Task
 4. Exit
 
-## Learning Concepts
-This project demonstrates:
-Python functions
-Lists
-Loops
-Conditional statements
+Enter your choice:
+Learning Objectives
+
+This project helps beginners understand:
+
+Python lists
+Loops and conditions
+Functions
 User input handling
-## Future Improvements
-Save tasks in a file
-Add deadlines and priorities
-GUI version using Tkinter
-## Author
-Fatima Ismail
+Basic CRUD operations
+Future Improvements
+Save tasks permanently using files or databases
+Add task deadlines
+Mark tasks as completed
+Create a graphical user interface (GUI)
+Author
+
+Developed by Fatima Ismail
+
+License
+
+This project is open-source and available under the MIT License.
