@@ -30,19 +30,16 @@ python todo.py
 3. Delete Task
 4. Exit
 
-  Learning Concepts
-
+## Learning Concepts
 This project demonstrates:
-
 Python functions
 Lists
 Loops
 Conditional statements
 User input handling
-Future Improvements
+## Future Improvements
 Save tasks in a file
 Add deadlines and priorities
 GUI version using Tkinter
-Author
-
+## Author
 Fatima Ismail
