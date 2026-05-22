@@ -20,16 +20,17 @@ A simple command-line To-Do List application built with Python. This project all
 
 ```bash
 git clone https://github.com/your-username/todo-list.git
-Navigate to the project folder
+2. Navigate to the project folder
 cd todo-list
-Run the Python file
+3. Run the Python file
 python todo.py
-Example Menu
+--- Example Menu
 1. Add Task
 2. View Tasks
 3. Delete Task
 4. Exit
-Learning Concepts
+
+  Learning Concepts
 
 This project demonstrates:
 
